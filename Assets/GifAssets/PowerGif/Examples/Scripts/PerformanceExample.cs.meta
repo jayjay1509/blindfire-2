@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c5255c3769c1e2947a64ec0890e1e5e2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121731
+  packageName: Power GIF Demo
+  packageVersion: 2.2
+  assetPath: Assets/GifAssets/PowerGif/Examples/Scripts/PerformanceExample.cs
+  uploadId: 619507

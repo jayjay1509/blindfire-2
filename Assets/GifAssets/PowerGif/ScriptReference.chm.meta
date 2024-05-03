@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 952c9df982f125a47b00f6038d928c84
+timeCreated: 1528031901
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121731
+  packageName: Power GIF Demo
+  packageVersion: 2.2
+  assetPath: Assets/GifAssets/PowerGif/ScriptReference.chm
+  uploadId: 619507

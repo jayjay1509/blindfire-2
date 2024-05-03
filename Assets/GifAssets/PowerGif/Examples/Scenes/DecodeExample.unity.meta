@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 023496aa568f7b34d9c8e835c2d22675
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121731
+  packageName: Power GIF Demo
+  packageVersion: 2.2
+  assetPath: Assets/GifAssets/PowerGif/Examples/Scenes/DecodeExample.unity
+  uploadId: 619507
