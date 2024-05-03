@@ -64,7 +64,7 @@
                 {
                     "name": "",
                     "id": "465b6164-1a4f-40ed-9753-23ee3ef162ff",
-                    "path": "<Keyboard>/e",
+                    "path": "<Mouse>/leftButton",
                     "interactions": "",
                     "processors": "",
                     "groups": "Keyboard&Mouse;Gamepad;Touch;Joystick;XR",
